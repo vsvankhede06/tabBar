@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.tabs_content {
+  border: 1px solid;
+  height: 20rem;
+  border-bottom: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.active {
+  border-bottom: none;
+}
